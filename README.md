@@ -1,4 +1,4 @@
-\# 🛡️ Uncoverit Bypasser CLI Tool
+# 🛡️ Uncoverit Bypasser CLI Tool
 
 
 
@@ -16,7 +16,7 @@ A sleek, terminal-based Python utility built with `pystyle` for UI flair and fun
 
 
 
-\## 📦 Requirements
+## 📦 Requirements
 
 
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 
 
-\* Requires Python \*\*3.7+\*\*
+* Requires Python \*\*3.7+\*\*
 
 
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 
 
-\## 🚀 Usage
+## 🚀 Usage
 
 
 
@@ -61,7 +61,7 @@ Run the tool directly with:
 
 ---
 
-\## 🙌 Credits
+## 🙌 Credits
 
 
 
