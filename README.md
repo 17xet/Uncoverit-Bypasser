@@ -8,9 +8,9 @@ A sleek, terminal-based Python utility built with `pystyle` for UI flair and fun
 
 ---
 
-> Created by \[17xet](https://github.com/17xet)  
+> Created by [17xet](https://github.com/17xet)  
 
-> More tools: \[https://discord.gg/bb3Z5VrPwk](https://discord.gg/bb3Z5VrPwk)
+> More tools: [https://discord.gg/bb3Z5VrPwk](https://discord.gg/bb3Z5VrPwk)
 
 ---
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 
 
-* Requires Python \*\*3.7+\*\*
+* Requires Python **3.7+**
 
 
 
@@ -65,9 +65,9 @@ Run the tool directly with:
 
 
 
-Made with ❤️ by \[17xet](https://github.com/17xet)
+Made with ❤️ by [17xet](https://github.com/17xet)
 
-Join the community: \[Discord](https://discord.gg/bb3Z5VrPwk)
+Join the community: [Discord](https://discord.gg/bb3Z5VrPwk)
 
 
 
